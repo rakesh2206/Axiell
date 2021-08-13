@@ -3,6 +3,8 @@ package com.axill;
 import java.util.Arrays;
 import java.util.Locale;
 
+/* the java program to check a string is a Anagram or not */
+
 public class StringAnagram {
 
     public static void  main(String args[]) {
